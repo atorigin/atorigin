@@ -14,7 +14,7 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=atorigin&show_icons=true&theme=radical" alt="stats" height="500" width="520" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorigin" alt="stats" height="500" width="520" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atorigin&show_icons=true&theme=radical" alt="stats" height="99%" width="299" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorigin" alt="stats" height="99%" width="299" />
 
 </p>
