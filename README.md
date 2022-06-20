@@ -1,11 +1,10 @@
 <p align="center">
   <img 
-    width="300"
-    height="300"
+    width="400"
+    height="420"
     src="https://github-readme-stats.vercel.app/api?username=atorigin&show_icons=true&theme=radical"
   >
 </p>
-![Atorigin's GitHub stats](https://github-readme-stats.vercel.app/api?username=atorigin&show_icons=true&theme=radical)
 
 <h1 align="center">Hi 👋, I'm Owen</h1>
 <h3 align="center"><b>A passionate devops engineer from Taiwan></b></h3>
